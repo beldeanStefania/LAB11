@@ -1,0 +1,23 @@
+{
+  "1": {
+    "py/object": "domeniu.asignare.Asignare",
+    "_Entitate__idEntitate": "1",
+    "_Asignare__idStudent": "1",
+    "_Asignare__nrLab_nrProblema": "1 1",
+    "_Asignare__nota": "10"
+  },
+  "2": {
+    "py/object": "domeniu.asignare.Asignare",
+    "_Entitate__idEntitate": "2",
+    "_Asignare__idStudent": "63",
+    "_Asignare__nrLab_nrProblema": "1 1",
+    "_Asignare__nota": "4"
+  },
+  "3": {
+    "py/object": "domeniu.asignare.Asignare",
+    "_Entitate__idEntitate": "3",
+    "_Asignare__idStudent": "11",
+    "_Asignare__nrLab_nrProblema": "1 1",
+    "_Asignare__nota": "5"
+  }
+}

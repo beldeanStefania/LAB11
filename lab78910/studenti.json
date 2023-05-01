@@ -1,0 +1,62 @@
+{
+  "a": {
+    "py/object": "domeniu.student.Student",
+    "_Entitate__idEntitate": "a",
+    "_Student__nume": "a",
+    "_Student__grup": "3"
+  },
+  "3": {
+    "py/object": "domeniu.student.Student",
+    "_Entitate__idEntitate": "3",
+    "_Student__nume": "3",
+    "_Student__grup": "3"
+  },
+  "2": {
+    "py/object": "domeniu.student.Student",
+    "_Entitate__idEntitate": "2",
+    "_Student__nume": "4",
+    "_Student__grup": "6"
+  },
+  "7": {
+    "py/object": "domeniu.student.Student",
+    "_Entitate__idEntitate": "7",
+    "_Student__nume": "a",
+    "_Student__grup": "a"
+  },
+  "9": {
+    "py/object": "domeniu.student.Student",
+    "_Entitate__idEntitate": "9",
+    "_Student__nume": "te",
+    "_Student__grup": "tst"
+  },
+  "63": {
+    "py/object": "domeniu.student.Student",
+    "_Entitate__idEntitate": "63",
+    "_Student__nume": "at",
+    "_Student__grup": "sryh"
+  },
+  "11": {
+    "py/object": "domeniu.student.Student",
+    "_Entitate__idEntitate": "11",
+    "_Student__nume": "sdf",
+    "_Student__grup": "gs"
+  },
+  "1": {
+    "py/object": "domeniu.student.Student",
+    "_Entitate__idEntitate": "1",
+    "_Student__nume": "stefi",
+    "_Student__grup": "311"
+  },
+  "99": {
+    "py/object": "domeniu.student.Student",
+    "_Entitate__idEntitate": "99",
+    "_Student__nume": "99",
+    "_Student__grup": "99"
+  },
+  "x": {
+    "py/object": "domeniu.student.Student",
+    "_Entitate__idEntitate": "x",
+    "_Student__nume": "x",
+    "_Student__grup": "x"
+  }
+}
